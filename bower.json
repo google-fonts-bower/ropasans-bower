@@ -1,0 +1,17 @@
+{
+    "name": "ropasans-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Botjo Nikoltchev"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/ropasans-bower.git"
+    },
+    "description": "Ropa Sans font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
